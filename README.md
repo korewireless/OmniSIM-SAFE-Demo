@@ -1,5 +1,5 @@
-# OmniSIM-SAFE-Middleware
-OmniSIM SAFE - Middleware to enable Zero Touch Provisioning / Chip-2-Cloud with IoT SAFE 
+# OmniSIM-SAFE-Demo
+OmniSIM SAFE - Demo of the Middleware to enable Zero Touch Provisioning / Chip-2-Cloud with IoT SAFE 
 
 ## Hardware
 This section provides recommended Hardware to build a IoT SAFE test device.  Other hardware can be used and recommend Linux based OS running on the device.
